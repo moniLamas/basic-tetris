@@ -7,4 +7,4 @@ https://youtu.be/w1JJfK09ujQ
 
 See my project:
 
-https://monipeny.github.io/basic-tetris/
+https://moniLamas.github.io/basic-tetris/
